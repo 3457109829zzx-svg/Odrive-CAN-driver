@@ -1,0 +1,27 @@
+# Keil MDK
+MDK-ARM/odrive_motor/
+DebugConfig/
+RTE/
+*.hex
+*.axf
+*.elf
+*.bin
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+*.htm
+*.lnp
+*.sct
+*.map
+*.build_log.*
+*.uvguix.*
+*.scvd
+JLinkLog.txt
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
